@@ -2,7 +2,7 @@
 
 An interactive executive dashboard designed to monitor procurement spend, supplier performance, purchase order (PO) ageing, and vendor concentration risk. Built in **Microsoft Power BI**, this cockpit enables supply chain and procurement teams to track budget adherence, identify bottlenecks in open POs, and evaluate vendor reliability across plants and material categories.
 
-![Dashboard Preview]()
+![Dashboard Preview](Manufacturing Performance & Operations Excellence Cockpit Dashboard.png)
 
 ---
 
@@ -39,6 +39,4 @@ An interactive executive dashboard designed to monitor procurement spend, suppli
 2. Open the `.pbix` file in **Microsoft Power BI Desktop**.
 3. Use the top navigation slicers to filter by company, plant, fiscal year, material category, or vendor.
 4. Select any data point on a visual (such as a specific ageing bucket or supplier) to cross-filter the entire cockpit.
-```[cite: 1]
 
-*(Note: If you named your uploaded image file `dashboard-preview.jpg` or something else instead of `dashboard-preview.jpeg`, update `./dashboard-preview.jpeg` on line 7 to match your exact filename before clicking **Commit changes**.)*
